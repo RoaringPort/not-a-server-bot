@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RoaringPort/not-a-server-bot/issues"
   },
-  "homepage": "https://github.com/RoaringPort/not-a-server-bot#readme"
+  "homepage": "https://github.com/RoaringPort/not-a-server-bot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
